@@ -43,8 +43,8 @@
 			var h = 600;
 
 			var x = d3.scaleLinear()
-				.domain([10, 3000])
-				.rangeRound([300, 900]);
+				.domain([0.1, 1.0])
+				.rangeRound([550, 900]);
 
 			//Define map projection
 			var projection = d3.geoAlbersUsa()
@@ -68,7 +68,7 @@
 				.style("opacity", 0);
 			
 			// Threshold of colors
-			var color = d3.scaleThreshold().range(d3.schemeBuGn[9]).domain([0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]);
+			var color = d3.scaleThreshold().range(d3.schemeGreens[9]).domain([0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]);
 
 			// Creating the lengend
 			var g = svg.append("g")
@@ -95,9 +95,9 @@
 					.attr("fill", "#000")
 					.attr("text-anchor", "start")
 					.attr("font-weight", "bold")
-					.attr("font-size", "15px")
+					.attr("font-size", "13px")
 					.attr("font-family", "Avenir Next")
-					.text("Number of Starbucks Locations");
+					.text("Number of Starbucks Locations per 10,000 People");
 
 				g.call(d3.axisBottom(x)
 					.tickSize(15)
@@ -157,21 +157,47 @@
 					   .style("fill", function(d) {
 					   		//Get data value  
 					   		var value = d.properties.value;
-						   		return color(value);
-					   })
-					   .on("mouseover", function(d) {
-						   div.transition()
-						   		.duration(200)
-								.style("opacity", .9);      
-           						div.text(d.properties.state + ", " + d.properties.value)
-								.style("left", (d3.event.pageX) + "px")
-								.style("top", (d3.event.pageY - 28) + "px");
+						   	if(value) {
+								return color(value);
+							}
+							else{
+								return "rgb(213,222,217)";
+							}
+					   });
+
+					// Map the cities 
+					d3.csv("starbucks-cities.csv", function(data){
+						svg.selectAll("circle")
+						.data(data)
+						.enter()
+						.append("circle")
+						.attr("cx", function(d){
+							return projection([d.long, d.lat])[0];
 						})
-						.on("mouseout", function(d) {
-							div.transition()
-								.duration(500)
-								.style("opacity", 0);
+						.attr("cy", function(d){
+							return projection([d.long, d.lat])[1];
+						})
+						.attr("r", function(d){
+							return Math.sqrt(d.value)* 0.95;
+						})
+						.style("fill", "rgb(255, 255, 153)")
+						.style("opacity", 0.75)
+						.on("mouseover", function(d) {      
+							div.transition()        
+							.duration(200)      
+							.style("opacity", .9);      
+							div.text(d.city + ", " + d.value)
+							.style("left", (d3.event.pageX) + "px")     
+							.style("top", (d3.event.pageY - 28) + "px");    
+						})   
+
+						// fade out tooltip on mouse out               
+						.on("mouseout", function(d) {       
+							div.transition()        
+							.duration(500)      
+							.style("opacity", 0);   
 						});
+					});
 				});
 			});
 		</script>
