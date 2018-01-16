@@ -1,52 +1,52 @@
-state,value
-Alabama,85
-Alaska,49
-Arizona,488
-Arkansas,55
-California,2821
-Colorado,481
-Connecticut,123
-Delaware,25
-District of Columbia,91
-Florida,694
-Georgia,326
-Hawaii,99
-Idaho,67
-Illinois,575
-Indiana,221
-Iowa,89
-Kansas,94
-Kentucky,116
-Louisiana,84
-Maine,30
-Maryland,257
-Massachusetts,273
-Michigan,283
-Minnesota,184
-Mississippi,32
-Missouri,188
-Montana,36
-Nebraska,58
-Nevada,253
-New Hampshire,29
-New Jersey,261
-New Mexico,76
-New York,645
-North Carolina,338
-North Dakota,13
-Ohio,378
-Oklahoma,79
-Oregon,359
-Pennsylvania,357
-Rhode Island,27
-South Carolina,131
-South Dakota,25
-Tennessee,180
-Texas,1042
-Utah,101
-Vermont,8
-Virginia,432
-Washington,757
-West Virginia,25
-Wisconsin,145
-Wyoming,23
+"","state","value"
+"1","Alabama",0.1748
+"2","Alaska",0.6605
+"3","Arizona",0.7041
+"4","Arkansas",0.1841
+"5","California",0.7187
+"6","Colorado",0.8681
+"7","Connecticut",0.3439
+"8","Delaware",0.2626
+"9","District of Columbia",1.3359
+"10","Florida",0.3367
+"11","Georgia",0.3162
+"12","Hawaii",0.693
+"13","Idaho",0.3981
+"14","Illinois",0.4492
+"15","Indiana",0.3332
+"16","Iowa",0.2839
+"17","Kansas",0.3233
+"18","Kentucky",0.2614
+"19","Louisiana",0.1794
+"20","Maine",0.2253
+"21","Maryland",0.4272
+"22","Massachusetts",0.4008
+"23","Michigan",0.285
+"24","Minnesota",0.3333
+"25","Mississippi",0.1071
+"26","Missouri",0.3086
+"27","Montana",0.3453
+"28","Nebraska",0.3041
+"29","Nevada",0.8605
+"30","New Hampshire",0.2173
+"31","New Jersey",0.2918
+"32","New Mexico",0.3652
+"33","New York",0.3267
+"34","North Carolina",0.3331
+"35","North Dakota",0.1715
+"36","Ohio",0.3255
+"37","Oklahoma",0.2013
+"38","Oregon",0.877
+"39","Pennsylvania",0.2793
+"40","Rhode Island",0.2556
+"41","South Carolina",0.2641
+"42","South Dakota",0.2889
+"43","Tennessee",0.2706
+"44","Texas",0.374
+"45","Utah",0.331
+"46","Vermont",0.1281
+"47","Virginia",0.5136
+"48","Washington",1.0387
+"49","West Virginia",0.1365
+"50","Wisconsin",0.2509
+"51","Wyoming",0.3928

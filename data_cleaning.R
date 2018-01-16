@@ -47,6 +47,31 @@ colnames(freqCount) <- c("state", "value")
 # Sorting the data frame alphabetically 
 freqCount <- freqCount[order(freqCount$state),]
 
+# -------------------------------------------------------------------------------------------------------------------
+
+# Importing estimated population data for 2016 from 
+# https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=PEP_2016_PEPANNRES&prodType=table
+pop <- read.csv("population.csv")
+
+# Removing the first row
+pop <- pop[-1,]
+
+# Removing unnecessary data for this project
+pop$GEO.id <- NULL
+pop$GEO.id2 <- NULL
+
+colnames(pop) <- c("state", "population")
+
+freqCount["population"] <- as.numeric(levels(pop$population)[pop$population])
+
+freqCount <-
+  freqCount %>%
+    group_by(state) %>%
+      mutate(v = round(((value/population) * 10000), 4))
+
+
 # Export to CSV
-write.csv(freqCount, file = "final-starbucks-us.csv")
+final_starbucks <- freqCount[c("state", "v")]
+colnames(final_starbucks) <- c("state", "value")
+write.csv(final_starbucks, file = "final-starbucks-us.csv")
 

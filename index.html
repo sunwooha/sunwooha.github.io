@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Starbucks Locations in the US</title>
+		<title>ISP 2018</title>
 		<script type="text/javascript" src="../d3.js"></script>
 		<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 		<script src="https://d3js.org/topojson.v2.min.js"></script>
@@ -68,7 +68,7 @@
 				.style("opacity", 0);
 			
 			// Threshold of colors
-			var color = d3.scaleThreshold().range(d3.schemeGreens[9]).domain([10, 100, 200, 300, 400, 800, 1000, 2000, 3000]);
+			var color = d3.scaleThreshold().range(d3.schemeBuGn[9]).domain([0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]);
 
 			// Creating the lengend
 			var g = svg.append("g")
