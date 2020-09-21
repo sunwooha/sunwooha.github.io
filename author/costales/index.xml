@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Costales | Sunwoo Ha</title>
+    <link>/author/costales/</link>
+      <atom:link href="/author/costales/index.xml" rel="self" type="application/rss+xml" />
+    <description>Costales</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sunwoo Ha 2020</copyright><lastBuildDate>Mon, 21 Sep 2020 01:23:39 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu341430b9846a55609d9b350094cf162b_24980_512x512_fill_lanczos_center_2.png</url>
+      <title>Costales</title>
+      <link>/author/costales/</link>
+    </image>
+    
+    <item>
+      <title>Uncovering User Interest during Data Exploration via Unsupervised Clustering</title>
+      <link>/publication/uncovering_user_interest_during_data_exploration_via_unsupervised_clustering/</link>
+      <pubDate>Mon, 21 Sep 2020 01:23:39 -0500</pubDate>
+      <guid>/publication/uncovering_user_interest_during_data_exploration_via_unsupervised_clustering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
