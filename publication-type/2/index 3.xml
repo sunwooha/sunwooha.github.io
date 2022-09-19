@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Sunwoo Ha</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sunwoo Ha 2020</copyright><lastBuildDate>Sun, 25 Oct 2020 01:23:01 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu341430b9846a55609d9b350094cf162b_24980_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Expectation Versus Reality: The Failed Evaluation of a Mixed-Initiative Visualization System</title>
+      <link>/publication/expectation_versus_reality_the_failed_evaluation_of_a_mixed-initiative_visualization_system/</link>
+      <pubDate>Sun, 25 Oct 2020 01:23:01 -0500</pubDate>
+      <guid>/publication/expectation_versus_reality_the_failed_evaluation_of_a_mixed-initiative_visualization_system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
