@@ -1,0 +1,96 @@
+.nav-center{
+    background-color: #958694;
+    color: white;
+}
+
+.nav-link{
+    color:white;
+    font-weight: 500;
+    font-size: large;
+}
+
+.profile-img {
+    max-height: 100%;
+    max-width: 100%;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section:before {
+    display: block; 
+    content: " "; 
+    margin-top: -75px; 
+    height: 75px; 
+    visibility: hidden; 
+}
+
+.profile-img-container {
+    justify-content: center;
+    display: block;
+}
+
+.resume-comp {
+    margin: 20px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.publication:hover {
+    background-color: #F1E6E4;
+    cursor: default;
+}
+
+.padding {
+    padding: 10px;
+}
+
+Code {
+    color: inherit;
+    width: 100%;
+}
+
+.linkdiv, .nameemaildiv{
+    text-align: center;
+}
+
+.linkdiv{
+    padding-top: 10px;
+}
+
+.aboutmediv{
+    padding-bottom: 10px;
+}
+
+.social {
+    padding: 5px;
+    margin: 1px;
+    margin-right: 5px;
+    background-color: #BF838D;
+    border-radius: 100%;
+    color: white;
+    text-align: center;
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+}
+
+.social:hover {
+    color: #F1E6E4;
+}
+
+.center-content {
+    text-align: center;
+}
+
+hr {
+    margin-bottom: 0px;
+}
+
+a, a:hover, b {
+    color: #BF838D
+}
+
+.badge-secondary{
+    background-color: #958694;
+}

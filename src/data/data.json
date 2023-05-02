@@ -1,0 +1,57 @@
+{
+    "publications": [
+        {
+            "title": "Exploring the Impact of Task Difficulty and Explanations on Suggestion Usage and Trust in AI-Guided Visual Analytics",
+            "authors": "Sunwoo Ha, Shayan Monadjemi, and Alvitta Ottley",
+            "venue": "IEEE Visualization and Visual Analytics (VIS). 2024.",
+            "link": "",
+            "type": "In Submssion (Full Paper)",
+            "id": 0
+        },
+
+        {"title": "Can [A]I Help You Solve the VAST Challenge? The Impact of AI Assistance on Data Exploration and Decision-Making", 
+            "authors": "Sunwoo Ha, Shayan Monadjemi, and Alvitta Ottley",
+            "venue": "IEEE Transactions on Visualization and Computer Graphics. 2024.",
+            "link": "",
+            "type": "In Submission (Short Paper)",
+            "id": 1
+        },
+        {"title": "Why Combining Text and Visualization Could Improve Bayesian Reasoning: A Cognitive Load Perspective",
+            "authors": "Melanie Bancilhon, Amanda Wright, Sunwoo Ha, R. Jordan Crouser, and Alvitta Ottley",
+            "venue": "Proceedings of the CHI Conference on Human Factors in Computing Systems. 2023.",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3544548.3581218",
+            "type": "Full Paper",
+            "id": 2
+        },
+        {"title": "A Unified Comparison of User Modeling Techniques for Predicting Data Interaction and Detecting Exploration Bias", 
+            "authors": "Sunwoo Ha, Shayan Monadjemi, Roman Garnett, and Alvitta Ottley",
+            "venue": "IEEE Transactions on Visualization and Computer Graphics. 2023.",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9903515/",
+            "type": "Full Paper",
+            "id": 3
+        },
+        {"title": "Guided Data Discovery in Interactive Visualizations via Active Search", 
+            "authors": "Shayan Monadjemi, Sunwoo Ha, Quan Nguyen, Henry Chai, Roman Garnett, and Alvitta Ottley",
+            "venue": "IEEE Visualization and Visual Analytics (VIS). 2022.",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9973212",
+            "type": "Short Paper",
+            "id": 4
+        },
+        {
+            "title": "Expectation Versus Reality: The Failed Evaluation of a Mixed-Initiative Visualization System",
+            "authors": "Sunwoo Ha, Adam Kern, Melanie Bancilhon, and Alvitta Ottley",
+            "venue": "IEEE Workshop Celebrating the Scientific Value of Failure (FailFest). 2020.",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9308050",
+            "type": "Workshop Paper",
+            "id": 5
+        },
+        {
+            "title": "DRAGON-V: Detection and Recognition of Airplane Goals with Navigational Visualization",
+            "authors": "Christabel Wayllace, Sunwoo Ha, Yuchen Han, Jiaming Hu, Shayan Monadjemi, William Yeoh, and Alvitta Ottley",
+            "venue": "Proceedings of the AAAI Conference on Artificial Intelligence. 2020.",
+            "link": "https://ojs.aaai.org/index.php/AAAI/article/view/7108",
+            "type": "Workshop Paper",
+            "id": 6
+        }
+    ]
+}
