@@ -4,7 +4,7 @@ import './components.css'
 import img from '../data/img.jpg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons'
-import { faGraduationCap } from '@fortawesome/free-solid-svg-icons'
+import { faGraduationCap, faEnvelope} from '@fortawesome/free-solid-svg-icons'
 
 
 function About() {
@@ -31,6 +31,9 @@ function About() {
                                 <a className='social' href="https://scholar.google.com/citations?user=J7HAEDgAAAAJ&hl" target="_blank">
                                     <FontAwesomeIcon icon={faGraduationCap}></FontAwesomeIcon>
                                 </a>
+                                <a className='social' href="mailto:sha@wustl.edu" target="_blank">
+                                    <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>
+                                </a>
                             </div>
                     </Col>
 
@@ -40,7 +43,7 @@ function About() {
                             </div>
                             
                             <p className="mb-5">I am currently a 4th year Ph.D. candidate in the <a href="http://visualdata.wustl.edu/" target="_blank">Visual Data Analysis Group</a> at Washington University in St. Louis, advised by Dr. <a href={'https://engineering.wustl.edu/faculty/Alvitta-Ottley.html'} target={'_blank'}>Alvitta Ottley</a>. 
-                            My research interests are in <b>Visual Analytics</b> and <b>Human-Computer Interaction</b>. Most of the work throughout my Ph.D. has focused on leveraging user interactions within an interactive visual exploration system to asisst users in real-time data exploration.</p>
+                            My research interests are in <b>Visual Analytics</b> and <b>Human-Computer Interaction</b>. Most of the work throughout my Ph.D. has focused on leveraging user interactions and machine learning algorithms within an interactive visual exploration system to asisst users in real-time data exploration and decision-making.</p>
 
                            <p className="mb-5">Before joining WashU, I recieved a B.A. in Computer Science from New College of Florida.</p>
 
