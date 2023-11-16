@@ -12,7 +12,7 @@ function Publications(){
         <Row>
             <Col lg={12}>
                 <Row className='resume-comp'>
-                <h3 className="mb-0">Publications</h3>
+                <h3 className="mb-0">Selected Publications</h3>
                 </Row>
                 {json['publications'].map(x => (
                     <Publication publication={x} key={x.id}></Publication>

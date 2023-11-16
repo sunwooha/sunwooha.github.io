@@ -17,7 +17,7 @@ function About() {
                             <Image className='profile-img' src={img}></Image>
                         </Row>
                         <div className='nameemaildiv'>
-                            <h2 className="mb-0 padding">Sunwoo Jennifer Ha</h2>
+                            <h3 className="mb-0 padding"><b>Sunwoo Jennifer Ha</b></h3>
                             <h5 className="mb-0">Washington University in St. Louis</h5>
                             <code>sha [at] wustl [dot] edu</code>
                         </div>
@@ -42,10 +42,10 @@ function About() {
                                 <h3 className="mb-0">About Me</h3>
                             </div>
                             
-                            <p className="mb-5">I am currently a 4th year Ph.D. candidate in the <a href="http://visualdata.wustl.edu/" target="_blank">Visual Data Analysis Group</a> at Washington University in St. Louis, advised by Dr. <a href={'https://engineering.wustl.edu/faculty/Alvitta-Ottley.html'} target={'_blank'}>Alvitta Ottley</a>. 
-                            My research interests are in <b>Visual Analytics</b> and <b>Human-Computer Interaction</b>. Most of the work throughout my Ph.D. has focused on leveraging user interactions and machine learning algorithms within an interactive visual exploration system to asisst users in real-time data exploration and decision-making.</p>
+                            <p className="mb-5">I am currently a 5th year Ph.D. candidate in the <a href="http://visualdata.wustl.edu/" target="_blank">Visual Interface and Behavior Exploration Lab (VIBE)</a> at Washington University in St. Louis, advised by Dr. <a href={'https://engineering.wustl.edu/faculty/Alvitta-Ottley.html'} target={'_blank'}>Alvitta Ottley</a>. 
+                            My research interests are in <b>Visual Analytics</b> and <b>Human-Computer Interaction</b>. Most of the work throughout my Ph.D. has focused on leveraging user interactions and machine learning algorithms within an interactive visual exploration system to assist users in real-time data exploration and decision-making.</p>
 
-                           <p className="mb-5">Before joining WashU, I recieved a B.A. in Computer Science from New College of Florida.</p>
+                           <p className="mb-5">I recieved my M.S. in Computer Science from WashU in 2023 and prior to joining WashU, I recieved my B.A. in Computer Science from New College of Florida.</p>
 
 
                     </Col>
