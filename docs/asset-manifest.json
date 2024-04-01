@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.de6af84d.chunk.css",
-  "main.js": "/static/js/main.776f82ee.chunk.js",
-  "main.js.map": "/static/js/main.776f82ee.chunk.js.map",
+  "main.js": "/static/js/main.3a94c714.chunk.js",
+  "main.js.map": "/static/js/main.3a94c714.chunk.js.map",
   "static/css/1.e73b1e1a.chunk.css": "/static/css/1.e73b1e1a.chunk.css",
   "static/js/1.70088631.chunk.js": "/static/js/1.70088631.chunk.js",
   "static/js/1.70088631.chunk.js.map": "/static/js/1.70088631.chunk.js.map",
@@ -10,9 +10,9 @@
   "static/media/img.jpg": "/static/media/img.44e6cf2e.jpg",
   "static/media/eurovis2024.pdf": "/static/media/eurovis2024.e5ee6dd9.pdf",
   "static/media/cv.pdf": "/static/media/cv.550add3f.pdf",
-  "static/css/main.de6af84d.chunk.css.map": "/static/css/main.de6af84d.chunk.css.map",
   "static/css/1.e73b1e1a.chunk.css.map": "/static/css/1.e73b1e1a.chunk.css.map",
+  "static/css/main.de6af84d.chunk.css.map": "/static/css/main.de6af84d.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.93de5e02979d90f3d22db73e38af778a.js": "/precache-manifest.93de5e02979d90f3d22db73e38af778a.js",
+  "precache-manifest.d866a4d4ec8eed80bd6c406b27093455.js": "/precache-manifest.d866a4d4ec8eed80bd6c406b27093455.js",
   "service-worker.js": "/service-worker.js"
 }
