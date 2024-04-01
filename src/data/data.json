@@ -1,13 +1,22 @@
 {
     "publications": [
         {
+            "title": "Visual Analytics System for Automated Speech Recognition Analysis and Exploration",
+            "authors": "Sunwoo Ha, Chaehun Lim, and Alvitta Ottley",
+            "venue": "IEEE Transactions on Visualization and Computer Graphics, 2024.",
+            "link": "",
+            "repolink": "",
+            "type": "Short Paper (In Submission)",
+            "id": 0
+        },
+        {
             "title": "Guided By AI: Navigating Trust, Bias, and Data Exploration in AI-Guided Visual Analytics",
             "authors": "Sunwoo Ha, Shayan Monadjemi, and Alvitta Ottley",
             "venue": "Computer Graphics Forum, 2024.",
             "link": "",
             "repolink": "",
-            "type": "In Submssion (Full Paper)",
-            "id": 0
+            "type": "Full Paper",
+            "id": 1
         },
         {"title": "Why Combining Text and Visualization Could Improve Bayesian Reasoning: A Cognitive Load Perspective",
             "authors": "Melanie Bancilhon, Amanda Wright, Sunwoo Ha, R. Jordan Crouser, and Alvitta Ottley",
