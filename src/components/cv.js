@@ -1,6 +1,6 @@
 import {Container, Row, Col} from 'react-bootstrap'
 import React from 'react';
-import './components.css'
+import './components.css';
 import cv from '../data/cv.pdf';
 
 

@@ -2,6 +2,7 @@ import React from 'react';
 import {Row, Col} from 'react-bootstrap';
 import './components.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import eurovis from '../data/eurovis2024.pdf';
 
 
 function Publication(props){
@@ -26,8 +27,12 @@ function Publication(props){
     }
 
     if(props.publication.link !== ""){
+        if(props.publication.link === "tba"){
+            link = <a href={eurovis} target="_blank">Manuscript</a>
+        }
         link = <a href={props.publication.link} target="_blank">Manuscript</a>
     }
+
 
     return(
 <>

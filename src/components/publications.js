@@ -1,7 +1,7 @@
-import {Container, Row, Col} from 'react-bootstrap'
+import {Container, Row, Col} from 'react-bootstrap';
 import React from 'react';
-import './components.css'
-import Publication from './single_publication'
+import './components.css';
+import Publication from './single_publication';
 
 
 function Publications(){
