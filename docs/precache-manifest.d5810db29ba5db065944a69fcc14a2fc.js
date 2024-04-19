@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0e2297c3ed89d0eceab5",
+    "revision": "eec88308f928bb777f76",
     "url": "/static/css/main.de6af84d.chunk.css"
   },
   {
-    "revision": "0e2297c3ed89d0eceab5",
-    "url": "/static/js/main.0e2297c3.chunk.js"
+    "revision": "eec88308f928bb777f76",
+    "url": "/static/js/main.eec88308.chunk.js"
   },
   {
     "revision": "70088631f9ff653a1565",
@@ -28,11 +28,11 @@ self.__precacheManifest = [
     "url": "/static/media/eurovis2024.e5ee6dd9.pdf"
   },
   {
-    "revision": "f7e4ac9d147727ca6de00a510b261f87",
-    "url": "/static/media/cv.f7e4ac9d.pdf"
+    "revision": "fd38cc2003152daacdc665f93c4ab0af",
+    "url": "/static/media/cv.fd38cc20.pdf"
   },
   {
-    "revision": "11ade0def7e56b0f232edea59db997b5",
+    "revision": "8a50325504114241f3cc877838314b2b",
     "url": "/index.html"
   }
 ];
