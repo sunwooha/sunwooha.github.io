@@ -1,0 +1,1602 @@
+[
+  {
+    "buyer_id": "fdd12c10-85e3-502b-b283-6967823b1ffc",
+    "age": 25,
+    "favorite_milk": "soy",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "86fa5833-54fb-5f2b-9c12-d80f5d368008",
+    "age": 39,
+    "favorite_milk": "whole",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "cea26a63-417f-5d96-9bb9-770d1b937283",
+    "age": 34,
+    "favorite_milk": "soy",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "ffccdbad-a2bd-57f6-90e3-93c58bd7dee0",
+    "age": 47,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "cfa3446b-89ca-5152-be2b-7325ea76d2db",
+    "age": 63,
+    "favorite_milk": "none",
+    "favorite_time": "afternoon",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "018a9a9a-a0fa-5bdb-8ff6-dc9fb2350e41",
+    "age": 37,
+    "favorite_milk": "whole",
+    "favorite_time": "afternoon",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "376d20f0-e5df-5ad5-bff6-79da872791bb",
+    "age": 26,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "80f1154e-35ac-5d5c-bab2-bdbdf926a05d",
+    "age": 33,
+    "favorite_milk": "oat",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "a92b98d2-5ff4-5f5f-89c5-d85bbfeb4797",
+    "age": 61,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "window",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "ac381629-b52d-5516-8a0e-5f31c2c5422b",
+    "age": 52,
+    "favorite_milk": "almond",
+    "favorite_time": "morning",
+    "favorite_seat": "window",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "19f446bd-e9bf-58ae-89de-e8f8f11c5300",
+    "age": 26,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "fff94569-14d7-5d47-9ee7-8e73aecefb7c",
+    "age": 59,
+    "favorite_milk": "oat",
+    "favorite_time": "midday",
+    "favorite_seat": "garden",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "bfe078c6-c91e-5b41-81c8-c8cde4febb0e",
+    "age": 59,
+    "favorite_milk": "almond",
+    "favorite_time": "midday",
+    "favorite_seat": "communal",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "b330b35f-7d47-548a-ae7b-60fd6de09bbf",
+    "age": 41,
+    "favorite_milk": "soy",
+    "favorite_time": "midday",
+    "favorite_seat": "garden",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "f7567deb-3cf6-582f-9606-ee3af5166d92",
+    "age": 47,
+    "favorite_milk": "soy",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "103d4f61-9b52-5ea9-b3ed-e73f3622cc90",
+    "age": 26,
+    "favorite_milk": "soy",
+    "favorite_time": "morning",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "2a426d6a-0b8b-5b9e-8e81-a8b415a28858",
+    "age": 49,
+    "favorite_milk": "oat",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "0e3ccbaa-94f5-50b4-8b31-c2f913d512d9",
+    "age": 45,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "3ebb0879-7466-5497-97b2-917caae8f5d5",
+    "age": 22,
+    "favorite_milk": "almond",
+    "favorite_time": "evening",
+    "favorite_seat": "garden",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "a3caeda6-be5c-5ff1-a885-4e1b70d05257",
+    "age": 40,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "counter",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "a34b76cb-b430-56bc-aa90-1bb4c3713f50",
+    "age": 54,
+    "favorite_milk": "almond",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "5f48092a-b0d6-5f86-ba6a-9c1694f5d541",
+    "age": 33,
+    "favorite_milk": "none",
+    "favorite_time": "morning",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "3fa18d2c-66a9-5df3-92c1-3ce86000c838",
+    "age": 45,
+    "favorite_milk": "almond",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "ab9facfd-b7bb-597b-81f1-486e67baa94f",
+    "age": 44,
+    "favorite_milk": "none",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "7006309a-5235-5096-a8e9-b281cafe25de",
+    "age": 62,
+    "favorite_milk": "almond",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "09392e33-c6f7-53e2-9607-d253c7380674",
+    "age": 25,
+    "favorite_milk": "oat",
+    "favorite_time": "morning",
+    "favorite_seat": "communal",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "7b63110f-e10b-5697-8ed2-db92ff49b103",
+    "age": 35,
+    "favorite_milk": "oat",
+    "favorite_time": "morning",
+    "favorite_seat": "window",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "2908a256-195c-5c6a-a7de-335ca17a7033",
+    "age": 42,
+    "favorite_milk": "whole",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "05d7addd-bd0e-55d0-b486-389ac9aa1c10",
+    "age": 19,
+    "favorite_milk": "soy",
+    "favorite_time": "afternoon",
+    "favorite_seat": "communal",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "27c64983-3fdf-559f-931d-9062280995a1",
+    "age": 45,
+    "favorite_milk": "whole",
+    "favorite_time": "afternoon",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "f58321ee-5a55-531d-a2e4-4c16c4fb0a23",
+    "age": 59,
+    "favorite_milk": "oat",
+    "favorite_time": "morning",
+    "favorite_seat": "communal",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "3ac6d09f-24d6-5bac-9d22-b06bfcf0235a",
+    "age": 54,
+    "favorite_milk": "whole",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "ee8e1e16-ca4c-5a88-8952-8fb2374649dc",
+    "age": 38,
+    "favorite_milk": "soy",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "6f0bb839-cb1d-5b52-9df3-ba65679f5b47",
+    "age": 48,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "communal",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "77b57b67-c1fc-5112-8bd6-da0c3c216860",
+    "age": 27,
+    "favorite_milk": "none",
+    "favorite_time": "midday",
+    "favorite_seat": "garden",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "d821ebe9-d2ee-5446-8cb7-b2154ef605bb",
+    "age": 59,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "window",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "48252bc0-3951-59f4-bfb1-39338e3b3f4a",
+    "age": 51,
+    "favorite_milk": "whole",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "e853c26e-13fb-5283-813d-36ebfb865935",
+    "age": 47,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "garden",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "c278d0ee-99f3-54c3-ae8b-6d04d6c7d9fc",
+    "age": 30,
+    "favorite_milk": "soy",
+    "favorite_time": "afternoon",
+    "favorite_seat": "communal",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "ba073b7e-13b4-566c-aaaa-130fe0f89271",
+    "age": 18,
+    "favorite_milk": "none",
+    "favorite_time": "afternoon",
+    "favorite_seat": "window",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "362d6478-d6f1-560c-bfa6-02c8094ccd65",
+    "age": 19,
+    "favorite_milk": "almond",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "175ba7bb-6d4f-58e4-947e-e28c6685236c",
+    "age": 20,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "cf1e7929-81c9-579c-94b5-9c0daa20d698",
+    "age": 29,
+    "favorite_milk": "none",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "22f5ae5f-496b-59ee-a914-09273abd58f5",
+    "age": 21,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "f4d3c9b1-769d-5de6-af4c-bd8094f15bde",
+    "age": 51,
+    "favorite_milk": "none",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "ad966c4a-30f0-50bc-a735-611af22d124f",
+    "age": 21,
+    "favorite_milk": "oat",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "2287ad07-8992-54e2-b37a-060f66da3e52",
+    "age": 58,
+    "favorite_milk": "oat",
+    "favorite_time": "afternoon",
+    "favorite_seat": "communal",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "3dba11a8-7dc4-5c97-9063-8a6efc3a3a81",
+    "age": 21,
+    "favorite_milk": "almond",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "30015ff5-6ae5-5bbc-b48e-d85731e6e15d",
+    "age": 59,
+    "favorite_milk": "oat",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "7117f1e5-1e83-5748-8ce4-33cc1bfd81e7",
+    "age": 40,
+    "favorite_milk": "whole",
+    "favorite_time": "afternoon",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "17541e3b-15fe-5bb6-b7e7-468f25f78235",
+    "age": 26,
+    "favorite_milk": "none",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "95fa7de6-da3a-5bb0-aaeb-ce48e74b1d26",
+    "age": 39,
+    "favorite_milk": "none",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "135aedc2-7683-5bf4-aead-b4dced3a6b8c",
+    "age": 56,
+    "favorite_milk": "oat",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "75922921-6077-569f-bc5b-ef21b02c8514",
+    "age": 38,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "c3bf2db8-31c6-5fb4-8f30-287b50923a4a",
+    "age": 23,
+    "favorite_milk": "oat",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "77b64c1f-a261-5bda-9ad0-afa09219b868",
+    "age": 23,
+    "favorite_milk": "oat",
+    "favorite_time": "afternoon",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "d43253c5-46e6-5c46-9c30-db5d403e8446",
+    "age": 65,
+    "favorite_milk": "whole",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "569c2565-b6f2-59b3-b032-a7bdfc837766",
+    "age": 19,
+    "favorite_milk": "none",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "4949b0cb-20df-53b6-aa6c-36b07243528d",
+    "age": 40,
+    "favorite_milk": "almond",
+    "favorite_time": "morning",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "1f804ca6-721f-5c20-bfee-5b7041a3ab5a",
+    "age": 35,
+    "favorite_milk": "soy",
+    "favorite_time": "midday",
+    "favorite_seat": "communal",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "7e1eca91-a0b8-547c-bc53-15cd6dfde94b",
+    "age": 60,
+    "favorite_milk": "none",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "bafe8e8c-cdaa-56cc-a997-30e998731447",
+    "age": 41,
+    "favorite_milk": "whole",
+    "favorite_time": "midday",
+    "favorite_seat": "garden",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "19f822b5-3030-5092-ab33-124feefa84a7",
+    "age": 48,
+    "favorite_milk": "soy",
+    "favorite_time": "midday",
+    "favorite_seat": "communal",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "2d05b092-fcd6-547b-9caa-0944651d61bb",
+    "age": 44,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "f05651ab-28af-5408-8f8d-df47bcb302f3",
+    "age": 46,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "45b19eb7-5ff6-5f07-a4be-34dacfbf5348",
+    "age": 25,
+    "favorite_milk": "whole",
+    "favorite_time": "midday",
+    "favorite_seat": "communal",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "4698988b-1090-5208-a42c-681ad2096146",
+    "age": 57,
+    "favorite_milk": "soy",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "c87b336a-d92f-529a-b17f-7ae2f5a5a322",
+    "age": 27,
+    "favorite_milk": "oat",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "d59b91a8-8bb6-5273-9303-b841b86c9b49",
+    "age": 59,
+    "favorite_milk": "almond",
+    "favorite_time": "morning",
+    "favorite_seat": "communal",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "d7d24efa-60cd-531e-a8f4-c407b1482a05",
+    "age": 60,
+    "favorite_milk": "whole",
+    "favorite_time": "evening",
+    "favorite_seat": "garden",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "0c937180-212a-5219-a0f7-3d4a8a0ab7d7",
+    "age": 25,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "communal",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "fe064d88-abd7-5bb6-806c-3ea68b8c4636",
+    "age": 46,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "5c2676db-ebbf-51c0-987e-c2416c076a44",
+    "age": 45,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "a3c20a80-29f9-51b3-9c22-960fac8aa4dc",
+    "age": 20,
+    "favorite_milk": "soy",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "c77ad53b-f79a-5bf4-bc7f-464139e45542",
+    "age": 37,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "8cec836e-cb9e-52cf-a05d-b9a012afe8ee",
+    "age": 38,
+    "favorite_milk": "whole",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "6c47bdde-4956-56ae-9ea6-f8dc9fec2f7f",
+    "age": 30,
+    "favorite_milk": "none",
+    "favorite_time": "midday",
+    "favorite_seat": "garden",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "753b37db-e725-523c-8fc7-89a31930984b",
+    "age": 25,
+    "favorite_milk": "soy",
+    "favorite_time": "afternoon",
+    "favorite_seat": "window",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "a82bbc5d-77c1-5506-be5e-3c298401e157",
+    "age": 60,
+    "favorite_milk": "oat",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "7c5f88ff-ddee-5356-8de2-c44fbaefd6df",
+    "age": 20,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "1e9672b7-6564-530f-be82-6004085c03e0",
+    "age": 24,
+    "favorite_milk": "soy",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "2816e9c3-9bbd-5038-a192-62a896541570",
+    "age": 24,
+    "favorite_milk": "almond",
+    "favorite_time": "morning",
+    "favorite_seat": "counter",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "b45739ef-ea1b-59bb-8cb2-395425947531",
+    "age": 42,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "garden",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "01cab3b3-e7e3-58cb-987c-6d5ac307d6f8",
+    "age": 64,
+    "favorite_milk": "whole",
+    "favorite_time": "midday",
+    "favorite_seat": "communal",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "ce4f9afc-7162-597c-a5fd-427f0e47dc2e",
+    "age": 56,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "communal",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "2809b649-159a-5790-9d06-e745af890584",
+    "age": 29,
+    "favorite_milk": "soy",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "7a729647-1906-5580-8ece-d79a6f91979b",
+    "age": 49,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "garden",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "d153415d-bf7b-597c-b424-fd61c3bc8999",
+    "age": 55,
+    "favorite_milk": "none",
+    "favorite_time": "evening",
+    "favorite_seat": "garden",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "355bb5cb-ce6c-51e6-a012-57df060c249d",
+    "age": 59,
+    "favorite_milk": "almond",
+    "favorite_time": "midday",
+    "favorite_seat": "communal",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "bd2a307b-e0a9-54e7-bc8b-cd621963d2f9",
+    "age": 34,
+    "favorite_milk": "none",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "5a4a5374-615a-5c46-804c-1dac8af05489",
+    "age": 18,
+    "favorite_milk": "whole",
+    "favorite_time": "afternoon",
+    "favorite_seat": "communal",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "450e5aca-eb4d-5c21-84bf-6a9e50438552",
+    "age": 20,
+    "favorite_milk": "whole",
+    "favorite_time": "midday",
+    "favorite_seat": "garden",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "4b102c50-5a02-56e8-ae7d-adc0a5f67568",
+    "age": 36,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "2c895f71-57d8-5d43-b904-cb378b9b712a",
+    "age": 49,
+    "favorite_milk": "none",
+    "favorite_time": "midday",
+    "favorite_seat": "garden",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "910c8896-e689-525b-a5c4-b31b800b79ae",
+    "age": 28,
+    "favorite_milk": "almond",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "77216cd8-e28c-5cdf-ae4e-a5094e70679c",
+    "age": 31,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "garden",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "1ed79501-c10c-55e9-b934-75c7f4a2af65",
+    "age": 43,
+    "favorite_milk": "soy",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "86a6de00-6294-5ffc-909c-4c0f3146b7c4",
+    "age": 51,
+    "favorite_milk": "none",
+    "favorite_time": "morning",
+    "favorite_seat": "communal",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "d278d9e5-ea01-5d4d-a988-f06c2fb85884",
+    "age": 26,
+    "favorite_milk": "oat",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "057e3de0-1175-5f87-82fc-fe01dc72a1a1",
+    "age": 39,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "garden",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "5ecd62a3-f742-58f2-a7ec-d1c009d7e93a",
+    "age": 45,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "54bf7394-080d-5cb2-ac51-33dbd5685ccc",
+    "age": 47,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "garden",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "13e4ad7a-20d6-5924-9f8d-2edf53ea1017",
+    "age": 30,
+    "favorite_milk": "almond",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "b2537058-5811-57f5-80fd-edf12edb38fe",
+    "age": 24,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "69b3c05d-b059-5904-9b98-1fadc56ec9c8",
+    "age": 29,
+    "favorite_milk": "almond",
+    "favorite_time": "morning",
+    "favorite_seat": "communal",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "8d7f662e-d1e1-5eff-9a4c-4e2ab8d0153b",
+    "age": 52,
+    "favorite_milk": "none",
+    "favorite_time": "morning",
+    "favorite_seat": "garden",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "ba6e954e-74ad-5888-bb0e-249b07fffac6",
+    "age": 26,
+    "favorite_milk": "whole",
+    "favorite_time": "evening",
+    "favorite_seat": "garden",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "d79894de-cad0-5b99-9cde-83a992a7a4ec",
+    "age": 51,
+    "favorite_milk": "almond",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "e95cbb04-d947-5f0a-a9b3-04e998588a38",
+    "age": 39,
+    "favorite_milk": "none",
+    "favorite_time": "morning",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "7254a5a8-d45c-5c01-9989-4137b10442a0",
+    "age": 57,
+    "favorite_milk": "almond",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "3f802cc1-98df-5fc3-976b-b35ed1343ff3",
+    "age": 19,
+    "favorite_milk": "soy",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "754621ed-f593-5105-9113-c818235a07ad",
+    "age": 55,
+    "favorite_milk": "none",
+    "favorite_time": "midday",
+    "favorite_seat": "communal",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "4bb42c47-567d-588a-9caf-9227be84822c",
+    "age": 19,
+    "favorite_milk": "whole",
+    "favorite_time": "evening",
+    "favorite_seat": "garden",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "4440c41a-8673-557d-bf82-14a1f72e044e",
+    "age": 36,
+    "favorite_milk": "oat",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "577ac2f6-13a6-5eb7-81d6-47f017722ed7",
+    "age": 42,
+    "favorite_milk": "soy",
+    "favorite_time": "afternoon",
+    "favorite_seat": "communal",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "07cb6ea9-e18d-596c-864f-236e080c7c1c",
+    "age": 24,
+    "favorite_milk": "whole",
+    "favorite_time": "midday",
+    "favorite_seat": "garden",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "c4c63206-df23-58b6-a419-67dc7215ba26",
+    "age": 46,
+    "favorite_milk": "almond",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "acb67428-7c24-5959-9d13-2605f311a173",
+    "age": 61,
+    "favorite_milk": "soy",
+    "favorite_time": "midday",
+    "favorite_seat": "communal",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "74d6f0e3-ddb3-5c6b-ba6e-461652aefff0",
+    "age": 58,
+    "favorite_milk": "almond",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "bfac63e9-0634-5ddb-97d9-66d34bc9b2cc",
+    "age": 45,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "60fa6545-1af7-5cf6-bfe5-5ccc0d30d733",
+    "age": 18,
+    "favorite_milk": "none",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "3535da1e-1f1d-5bdb-93b8-d5dfec5c5cb3",
+    "age": 64,
+    "favorite_milk": "whole",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "eb2dc88d-d9f4-5531-894d-e61807b59619",
+    "age": 34,
+    "favorite_milk": "oat",
+    "favorite_time": "morning",
+    "favorite_seat": "communal",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "0c4f8d81-b806-5ed9-a48f-8b7dce880ce7",
+    "age": 18,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "garden",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "3873eed2-bae8-5d68-8bc7-23ac10d0a0fe",
+    "age": 23,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "7a656e1e-8597-5df6-ba89-8bbc0dd26cce",
+    "age": 49,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "fa925d98-52d6-55c3-8f33-c0309385cc53",
+    "age": 58,
+    "favorite_milk": "none",
+    "favorite_time": "evening",
+    "favorite_seat": "garden",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "4d60df4a-cd26-5e1b-8b0a-87f77eb31944",
+    "age": 18,
+    "favorite_milk": "whole",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "02ee3feb-e97f-5c39-a52a-c2eaf139eef5",
+    "age": 65,
+    "favorite_milk": "whole",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "2906f0c6-1bc6-5059-8ee6-193c70c8a0da",
+    "age": 38,
+    "favorite_milk": "oat",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "9ae1df31-489d-5e06-a171-446f8baa5d02",
+    "age": 65,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "2c1703ef-aca6-5427-ba78-64eaf352b7c2",
+    "age": 32,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "3a3be787-1377-52c0-ab45-33bc33896dba",
+    "age": 38,
+    "favorite_milk": "soy",
+    "favorite_time": "midday",
+    "favorite_seat": "communal",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "ee3c3123-ee37-58c4-9dba-2fde1a671c74",
+    "age": 49,
+    "favorite_milk": "none",
+    "favorite_time": "afternoon",
+    "favorite_seat": "communal",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "4ff066c8-bc99-545c-a9a1-c3e1f6e81db0",
+    "age": 28,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "8571ede1-11b7-5062-9e07-625708059237",
+    "age": 41,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "ba28c32a-db2d-50aa-87ec-4a50eb612031",
+    "age": 27,
+    "favorite_milk": "whole",
+    "favorite_time": "midday",
+    "favorite_seat": "communal",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "a333c34e-a69b-5290-94f3-10602aad5757",
+    "age": 52,
+    "favorite_milk": "almond",
+    "favorite_time": "morning",
+    "favorite_seat": "window",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "cde49e25-fb88-546d-bb55-b0407999364d",
+    "age": 24,
+    "favorite_milk": "almond",
+    "favorite_time": "morning",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "6a27ed63-082a-5d4b-b378-982fe0da2d9f",
+    "age": 60,
+    "favorite_milk": "none",
+    "favorite_time": "afternoon",
+    "favorite_seat": "communal",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "437d5d52-daf5-53fa-a720-271b66927e42",
+    "age": 38,
+    "favorite_milk": "oat",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "c1c31ed6-98e7-5ff3-8235-2e82c7e92a37",
+    "age": 38,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "6c3b6580-18d5-5faf-832a-6b0a8d1ac382",
+    "age": 26,
+    "favorite_milk": "whole",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "e54c572c-c032-5aa1-984e-dd172aafce1a",
+    "age": 46,
+    "favorite_milk": "oat",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "453aa9b0-c4a0-51c4-8142-4a6914c38e4c",
+    "age": 64,
+    "favorite_milk": "none",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "372c0007-8807-5c74-9584-2b891e94c8a2",
+    "age": 48,
+    "favorite_milk": "oat",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "908469e2-f2cd-5f0b-9b5f-9dd73e0dd94e",
+    "age": 48,
+    "favorite_milk": "oat",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "b5eb26d1-17f5-5d41-a363-04976a0494a5",
+    "age": 31,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "8bd82a56-7462-596a-bf7f-4c32fe38cfda",
+    "age": 25,
+    "favorite_milk": "almond",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "6011f293-e6db-5ce1-b048-f40b1bffea7f",
+    "age": 32,
+    "favorite_milk": "whole",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "3af8f864-3637-5c2b-9e12-f84beed30b21",
+    "age": 22,
+    "favorite_milk": "almond",
+    "favorite_time": "midday",
+    "favorite_seat": "garden",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "4bf96080-6ecb-530e-968c-16b9e0a128b9",
+    "age": 27,
+    "favorite_milk": "almond",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "7c89dccd-04e3-5591-b5cf-923252d2993b",
+    "age": 32,
+    "favorite_milk": "soy",
+    "favorite_time": "morning",
+    "favorite_seat": "garden",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "429508f4-949b-5bd7-b546-e3e8996d0785",
+    "age": 63,
+    "favorite_milk": "whole",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "be0234ed-8aa1-55e5-9cda-f19356d88e00",
+    "age": 65,
+    "favorite_milk": "oat",
+    "favorite_time": "evening",
+    "favorite_seat": "garden",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "f396e555-3509-51f5-89ae-4579684e8f01",
+    "age": 58,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "communal",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "afd37892-e0ae-534f-8db6-1010dbbda730",
+    "age": 52,
+    "favorite_milk": "none",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "5e8305a5-29c6-59fc-b478-bac267759578",
+    "age": 36,
+    "favorite_milk": "almond",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "4e956426-27ae-5df8-b4a6-618f193a1e51",
+    "age": 57,
+    "favorite_milk": "whole",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "55fa65fa-59bc-55d4-a660-90dd7e4ccfa0",
+    "age": 30,
+    "favorite_milk": "soy",
+    "favorite_time": "afternoon",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "e455a0a2-724a-5f07-b6cc-910542167b05",
+    "age": 18,
+    "favorite_milk": "soy",
+    "favorite_time": "afternoon",
+    "favorite_seat": "communal",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "1c2173a7-f723-5cda-9cc8-2f9f5c3cbe69",
+    "age": 61,
+    "favorite_milk": "almond",
+    "favorite_time": "morning",
+    "favorite_seat": "counter",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "5d66df55-678e-5edd-9f43-afc097ecd621",
+    "age": 49,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "86158794-f7bd-5cbe-9bda-f43d54b7bb11",
+    "age": 35,
+    "favorite_milk": "oat",
+    "favorite_time": "midday",
+    "favorite_seat": "garden",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "d9de3a78-43c8-516f-a7e5-bb7afbe4f27a",
+    "age": 33,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "b6ab274a-74a0-5b7e-8440-1f2b7726d30c",
+    "age": 24,
+    "favorite_milk": "none",
+    "favorite_time": "midday",
+    "favorite_seat": "communal",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "6600b6ca-9bbc-5fa9-bfb8-9a71e7449430",
+    "age": 57,
+    "favorite_milk": "oat",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "87ac02b8-5404-5b5f-b3a0-4d45346e5400",
+    "age": 34,
+    "favorite_milk": "oat",
+    "favorite_time": "midday",
+    "favorite_seat": "garden",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "2e09fd81-750f-5be2-b8ed-c1acf673ac2d",
+    "age": 54,
+    "favorite_milk": "none",
+    "favorite_time": "morning",
+    "favorite_seat": "communal",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "c56ca8bb-0719-5759-a154-1cb242687fd6",
+    "age": 42,
+    "favorite_milk": "whole",
+    "favorite_time": "afternoon",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "31dcbee3-1be8-519d-bddc-8f4424c91f06",
+    "age": 60,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "garden",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "7ef49912-67b6-5453-bed6-ce555a7651c4",
+    "age": 60,
+    "favorite_milk": "whole",
+    "favorite_time": "morning",
+    "favorite_seat": "window",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "f39e726b-a719-5445-9faa-1a80db134ff0",
+    "age": 61,
+    "favorite_milk": "none",
+    "favorite_time": "morning",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "d0b45f05-d831-5f23-9586-601c21b6a6fa",
+    "age": 35,
+    "favorite_milk": "whole",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "40af3010-688b-5ddf-b41d-a34c9d8d5357",
+    "age": 43,
+    "favorite_milk": "oat",
+    "favorite_time": "afternoon",
+    "favorite_seat": "window",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "0a5de4dd-c65d-5d1b-b4af-4862c2cc0e20",
+    "age": 61,
+    "favorite_milk": "whole",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "525f88b5-54ef-5352-8963-07ad7cbfb1b9",
+    "age": 41,
+    "favorite_milk": "whole",
+    "favorite_time": "afternoon",
+    "favorite_seat": "communal",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "f13ddad3-a00e-5723-bb32-16736bbb30f2",
+    "age": 35,
+    "favorite_milk": "almond",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "63258b68-dba1-5e11-89a6-01a5746a7133",
+    "age": 32,
+    "favorite_milk": "none",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "8e8b64a8-f5e1-5bed-9918-95ca11ea9e21",
+    "age": 52,
+    "favorite_milk": "soy",
+    "favorite_time": "afternoon",
+    "favorite_seat": "counter",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "b7c9a1c1-28ed-5fd6-a02d-3f50486450da",
+    "age": 29,
+    "favorite_milk": "none",
+    "favorite_time": "morning",
+    "favorite_seat": "communal",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "ecd3e98c-4c66-5392-bcc4-06759fc9c4ff",
+    "age": 30,
+    "favorite_milk": "almond",
+    "favorite_time": "morning",
+    "favorite_seat": "window",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "3633e055-0ac3-5334-a2c4-12e523ef8ccf",
+    "age": 63,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "8e3de69b-cb71-5e86-881c-b9d53222ee17",
+    "age": 48,
+    "favorite_milk": "none",
+    "favorite_time": "morning",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "2cb25717-ffd5-5f80-8bc1-3495fa5a932d",
+    "age": 65,
+    "favorite_milk": "oat",
+    "favorite_time": "afternoon",
+    "favorite_seat": "garden",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "76f4642d-0f35-5211-ae10-5ca0da87abe1",
+    "age": 37,
+    "favorite_milk": "none",
+    "favorite_time": "morning",
+    "favorite_seat": "communal",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "059f166b-5b2e-508b-9983-0ca0049d3f0b",
+    "age": 40,
+    "favorite_milk": "none",
+    "favorite_time": "evening",
+    "favorite_seat": "communal",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "f7a06a12-564a-5eb7-b6f6-8b245a9db487",
+    "age": 30,
+    "favorite_milk": "whole",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "3e5f6578-8040-5699-baff-d035bf9f0b57",
+    "age": 64,
+    "favorite_milk": "none",
+    "favorite_time": "morning",
+    "favorite_seat": "counter",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "666d37cd-4b13-55b3-a30d-2018f9044331",
+    "age": 52,
+    "favorite_milk": "almond",
+    "favorite_time": "evening",
+    "favorite_seat": "garden",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "1236af6c-cb74-597d-b7fe-a58550dc69d7",
+    "age": 50,
+    "favorite_milk": "none",
+    "favorite_time": "midday",
+    "favorite_seat": "window",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "f868b470-3195-550e-89dd-1db75234b4a4",
+    "age": 38,
+    "favorite_milk": "none",
+    "favorite_time": "midday",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "96c27eb6-1ca6-50ad-a253-10a8aa70bfaa",
+    "age": 36,
+    "favorite_milk": "almond",
+    "favorite_time": "morning",
+    "favorite_seat": "counter",
+    "favorite_flavor": "hazelnut"
+  },
+  {
+    "buyer_id": "ed3653d8-03aa-5b37-b1dd-88e19270c8f4",
+    "age": 54,
+    "favorite_milk": "soy",
+    "favorite_time": "evening",
+    "favorite_seat": "counter",
+    "favorite_flavor": "honey"
+  },
+  {
+    "buyer_id": "75b4ff77-8028-5244-8955-343c0fdc80e6",
+    "age": 28,
+    "favorite_milk": "whole",
+    "favorite_time": "midday",
+    "favorite_seat": "communal",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "02af28e1-cfac-54a3-943e-175a05df38d8",
+    "age": 26,
+    "favorite_milk": "oat",
+    "favorite_time": "morning",
+    "favorite_seat": "window",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "b2747040-b699-5969-8c47-1d2867616c74",
+    "age": 23,
+    "favorite_milk": "almond",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "vanilla"
+  },
+  {
+    "buyer_id": "76c4d990-3dda-5eb3-ba91-55d0548598e9",
+    "age": 26,
+    "favorite_milk": "whole",
+    "favorite_time": "afternoon",
+    "favorite_seat": "communal",
+    "favorite_flavor": "chocolate"
+  },
+  {
+    "buyer_id": "b32655c6-0671-5004-a380-48e081c19335",
+    "age": 59,
+    "favorite_milk": "almond",
+    "favorite_time": "afternoon",
+    "favorite_seat": "communal",
+    "favorite_flavor": "seasonal"
+  },
+  {
+    "buyer_id": "14ca395f-8909-515e-86c0-814a08af352a",
+    "age": 48,
+    "favorite_milk": "almond",
+    "favorite_time": "evening",
+    "favorite_seat": "window",
+    "favorite_flavor": "seasonal"
+  }
+]

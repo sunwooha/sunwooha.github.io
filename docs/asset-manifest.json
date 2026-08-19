@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0dec6e4d.css",
-    "main.js": "/static/js/main.bea2d037.js",
+    "main.css": "/static/css/main.376cc474.css",
+    "main.js": "/static/js/main.9f8d2fd9.js",
     "static/media/eurovis2024.pdf": "/static/media/eurovis2024.05f0d91ae935bbc0c579.pdf",
     "static/media/visshort2024.pdf": "/static/media/visshort2024.fa18bdbcef3416390a1e.pdf",
     "static/media/gallery.jpg": "/static/media/gallery.69b62ea81132c808e089.jpg",
@@ -11,6 +11,7 @@
     "static/media/resume.pdf": "/static/media/resume.5c7dbc15de77af9715ee.pdf",
     "static/media/coffee.jpg": "/static/media/coffee.4e882f59f03cb5d598de.jpg",
     "static/media/nycdogs.jpg": "/static/media/nycdogs.9e30a38f1d8bc315d444.jpg",
+    "static/media/sundaycounter.jpg": "/static/media/sundaycounter.af00a2dc30ba68f92429.jpg",
     "static/media/blue_bow_tape.png": "/static/media/blue_bow_tape.655f57031f158c442fb6.png",
     "static/media/lavender_star_tape.png": "/static/media/lavender_star_tape.27c66b5d609869523d16.png",
     "static/media/cow_tape.png": "/static/media/cow_tape.8fa18bafb02593c8baa7.png",
@@ -19,11 +20,11 @@
     "static/media/yellow_gingham_star.png": "/static/media/yellow_gingham_star.3e49d205695d8ddd8bb0.png",
     "static/media/pink_bow.png": "/static/media/pink_bow.3f31108dca2c61a67711.png",
     "index.html": "/index.html",
-    "main.0dec6e4d.css.map": "/static/css/main.0dec6e4d.css.map",
-    "main.bea2d037.js.map": "/static/js/main.bea2d037.js.map"
+    "main.376cc474.css.map": "/static/css/main.376cc474.css.map",
+    "main.9f8d2fd9.js.map": "/static/js/main.9f8d2fd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.0dec6e4d.css",
-    "static/js/main.bea2d037.js"
+    "static/css/main.376cc474.css",
+    "static/js/main.9f8d2fd9.js"
   ]
 }
