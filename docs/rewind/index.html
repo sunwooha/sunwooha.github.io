@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>What I actually watched — Jennifer Ha</title>
+    <meta name="description" content="A visual essay of two years of Netflix nights, from a viewing-history CSV." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./rewind.css" />
+  </head>
+  <body>
+    <div class="progress" id="progress"></div>
+    <a class="home" href="../">← Notebook</a>
+
+    <article class="essay">
+      <header class="hed">
+        <p class="kicker">Rewind</p>
+        <h1>What I actually watched</h1>
+        <p class="dek" id="dek"></p>
+        <p class="cue">Scroll</p>
+      </header>
+
+      <p>Netflix lets you download a list of everything you have played, with the date attached. Mine covers about two and a half years. It does not come with any explanation, so I made a few charts to see what was in it.</p>
+
+      <h2>Two years, day by day</h2>
+
+      <section class="scrolly" id="scrolly-heat" data-active="intro">
+        <div class="scrolly-graphic">
+          <div class="graphic-inner">
+            <div class="chart" id="heat"></div>
+            <div class="heat-legend" id="heat-legend"></div>
+          </div>
+        </div>
+        <div class="scrolly-steps">
+          <div class="step" data-step="intro">
+            <p>Each square is one day, and the darker squares are days I played more. Blank squares are days I did not watch anything.</p>
+          </div>
+          <div class="step" data-step="2024">
+            <p>2024 is mostly blank — <span id="n2024"></span> plays, with long gaps between them.</p>
+          </div>
+          <div class="step" data-step="2025">
+            <p>2025 fills in. <span id="peak-label"></span> is the busiest month in the file at <span id="peak-count"></span> plays, outlined here.</p>
+          </div>
+          <div class="step" data-step="2026">
+            <p>2026 covers only January through August, <span id="n2026"></span> plays so far.</p>
+          </div>
+          <div class="step" data-step="all">
+            <p>Across all three years the plays arrive in stretches rather than a little every day.</p>
+          </div>
+        </div>
+      </section>
+
+      <h2>Mostly K-drama</h2>
+      <p>One genre accounts for most of the hours. Each play counts once, under a single primary genre, so a show with several tags does not get counted twice.</p>
+      <figure class="graphic">
+        <div class="chart" id="mix"></div>
+        <div class="legend" id="mix-legend"></div>
+        <figcaption>Hours per month, K-drama versus everything else.</figcaption>
+      </figure>
+      <p>K-drama fills most of the months. Grey grows when I was in the middle of an English series or an anime, and then K-drama comes back.</p>
+
+      <h2>The shows I came back to</h2>
+      <p>Counting episodes favors shows with short ones. A cooking competition with hour-long episodes adds up faster than a half-hour sitcom, so this list is ranked by hours instead.</p>
+      <figure class="graphic">
+        <div class="chart" id="shows"></div>
+        <figcaption>Top series by estimated hours watched.</figcaption>
+      </figure>
+      <p>Sex and the City is still first. After that the list mixes anime, a Korean cooking competition, K-dramas, and Bridgerton — old rewatches and recent finds in the same top eight.</p>
+
+      <h2>Sundays, mostly</h2>
+      <p>I usually spend Sunday at home watching something, so I expected Sunday to be the busiest day of the week.</p>
+      <figure class="graphic graphic-narrow">
+        <div class="chart" id="week"></div>
+        <figcaption>Plays by weekday. Weekends in pink.</figcaption>
+      </figure>
+      <p>It is, by a clear margin. Saturday is close behind, and Monday is the lowest.</p>
+
+      <footer class="method" id="method"></footer>
+    </article>
+
+    <div class="tip" id="tip" hidden></div>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+    <script src="./rewind.js"></script>
+  </body>
+</html>
