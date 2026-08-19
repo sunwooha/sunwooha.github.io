@@ -1,18 +1,29 @@
 {
-  "main.css": "/static/css/main.de6af84d.chunk.css",
-  "main.js": "/static/js/main.c231ab06.chunk.js",
-  "main.js.map": "/static/js/main.c231ab06.chunk.js.map",
-  "static/css/1.e73b1e1a.chunk.css": "/static/css/1.e73b1e1a.chunk.css",
-  "static/js/1.70088631.chunk.js": "/static/js/1.70088631.chunk.js",
-  "static/js/1.70088631.chunk.js.map": "/static/js/1.70088631.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/img.jpg": "/static/media/img.44e6cf2e.jpg",
-  "static/media/visshort2024.pdf": "/static/media/visshort2024.71d998e8.pdf",
-  "static/media/cv.pdf": "/static/media/cv.e0c7b6db.pdf",
-  "static/css/1.e73b1e1a.chunk.css.map": "/static/css/1.e73b1e1a.chunk.css.map",
-  "static/css/main.de6af84d.chunk.css.map": "/static/css/main.de6af84d.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.6c60f03bb0cf447d63be34d3a92ccb7f.js": "/precache-manifest.6c60f03bb0cf447d63be34d3a92ccb7f.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/static/css/main.75ac4458.css",
+    "main.js": "/static/js/main.3b7f0281.js",
+    "static/media/eurovis2024.pdf": "/static/media/eurovis2024.05f0d91ae935bbc0c579.pdf",
+    "static/media/visshort2024.pdf": "/static/media/visshort2024.fa18bdbcef3416390a1e.pdf",
+    "static/media/gallery.jpg": "/static/media/gallery.69b62ea81132c808e089.jpg",
+    "static/media/grad.jpg": "/static/media/grad.6dda29b7654b47f44e8b.jpg",
+    "static/media/bakery.jpg": "/static/media/bakery.3168f3af9cd4668fdecf.jpg",
+    "static/media/kai.jpg": "/static/media/kai.7311d339e9cb8c6a2621.jpg",
+    "static/media/resume.pdf": "/static/media/resume.5c7dbc15de77af9715ee.pdf",
+    "static/media/coffee.jpg": "/static/media/coffee.4e882f59f03cb5d598de.jpg",
+    "static/media/nycdogs.jpg": "/static/media/nycdogs.9e30a38f1d8bc315d444.jpg",
+    "static/media/blue_bow_tape.png": "/static/media/blue_bow_tape.655f57031f158c442fb6.png",
+    "static/media/lavender_star_tape.png": "/static/media/lavender_star_tape.27c66b5d609869523d16.png",
+    "static/media/cow_tape.png": "/static/media/cow_tape.8fa18bafb02593c8baa7.png",
+    "static/media/pink_gingham_tape.png": "/static/media/pink_gingham_tape.0735f427ee9a5f61ceeb.png",
+    "static/media/polka_tape.png": "/static/media/polka_tape.89c32a39738987734790.png",
+    "static/media/yellow_gingham_star.png": "/static/media/yellow_gingham_star.3e49d205695d8ddd8bb0.png",
+    "static/media/pink_bow.png": "/static/media/pink_bow.3f31108dca2c61a67711.png",
+    "index.html": "/index.html",
+    "main.75ac4458.css.map": "/static/css/main.75ac4458.css.map",
+    "main.3b7f0281.js.map": "/static/js/main.3b7f0281.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75ac4458.css",
+    "static/js/main.3b7f0281.js"
+  ]
 }

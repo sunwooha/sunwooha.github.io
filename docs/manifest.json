@@ -1,10 +1,10 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Jennifer Ha",
+  "name": "Jennifer Ha",
   "icons": [
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#171717",
+  "background_color": "#f5f6f7"
 }
